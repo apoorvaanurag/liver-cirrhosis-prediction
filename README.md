@@ -11,6 +11,6 @@ The dataset contains 18 features used in diagnosis for different stages of liver
 
 ## Authors
 
-- [@apoorvaanurag](https://www.github.com/octokatherine)
-- [@prashantrao](https://www.github.com/octokatherine)
+- [@apoorvaanurag](https://www.github.com/apoorvaanurag)
+- [@prashantrao](https://www.github.com/prashcode5321)
 
